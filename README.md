@@ -40,10 +40,3 @@
 <p>You can reach out to me via email at [wltashik@gmail.com]. I am open to collaborating on exciting projects, discussing new opportunities, or answering any questions you may have.
 
 Let's connect and build amazing things together!</p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/borofmonster.png" alt="TryHackMe">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikp&show_icons=true&locale=en&layout=compact" alt="ashikp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikp&show_icons=true&locale=en" alt="ashikp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikp&" alt="ashikp" /></p>
