@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/wltashik" target="blank"><img src="https://img.shields.io/twitter/follow/wltashik?logo=twitter&style=for-the-badge" alt="wltashik" /></a> </p>
 
-- 🔭 I’m currently working on [G3 Enterprises](https://g3enterprises.com/)
+- 🔭 I’m currently working as a freelancer
 
-- 🌱 I’m currently learning **Machine Learning with Federated Learning**
+- 🌱 An AI Researcher, Networking Lover and Network Project Manager.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashikp?tab=repositories](https://github.com/ashikp?tab=repositories)
 
